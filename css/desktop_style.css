@@ -16,7 +16,7 @@
 body {
   /* Background Desktop [cite: 96] */
   /* Gradient Hitam 60% + Gambar Desktop */
-  background-image: url("../img/desktop-new.jpg");
+  background-image: url("../img/desktop-new.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -233,6 +233,7 @@ input[type="number"] {
 .alert {
   font-size: 14px;
 }
+
 
 
 
