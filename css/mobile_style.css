@@ -14,7 +14,7 @@ body {
 
 .card {
   width: 250px;
-  margin-top: 175px;
+  margin-top: 300px;
 }
 
 .card-header {
@@ -70,6 +70,3 @@ select {
   width: 8px;
   height: 8px;
 }
-
-
-
