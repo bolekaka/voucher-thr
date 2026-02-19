@@ -7,7 +7,7 @@
 
 body {
   /* Background Mobile [cite: 98] */
-  background-image: url("../img/desktop-new.jpeg");
+  background-image: url("../img/mobile-new.jpeg");
   align-items: flex-start; /* Form mulai dari atas di mobile */
   padding-top: 20px;
 }
@@ -70,5 +70,6 @@ select {
   width: 8px;
   height: 8px;
 }
+
 
 
